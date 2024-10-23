@@ -103,6 +103,3 @@ npm run start
 # Version 3 is also developed.
 ### Version 3 is designed for the massive transactions in a very short time.
 So, it is making 300 transactions in a minute.
-How wonderful it is.
-If you need it, you can contact me.
-
